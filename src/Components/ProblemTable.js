@@ -16,7 +16,7 @@ function ProblemTable() {
         </thead>
         <tbody>
           <tr>
-            <td></td> 
+            <td>Find Mean</td> 
             <td>Stats</td>
             <td>Python</td>
             <td>Easy</td>
