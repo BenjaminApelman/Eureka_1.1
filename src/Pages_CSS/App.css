@@ -1,0 +1,11 @@
+html, body {
+    margin: 0; /* Remove default margin from html and body elements */
+    padding: 0; /* Remove default padding from html and body elements */
+    height: 100%; /* Ensure html and body elements take up the full height of the viewport */
+    overflow: hidden; /* Prevent scrollbars from appearing */
+}
+
+.App {
+    background-color: black; /* Set the background color of the .App div to black */
+    height: 100vh; /* Ensure the .App div takes up the full height of the viewport */
+}
